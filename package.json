@@ -1,6 +1,8 @@
 {
-  "name": "starter",
+  "name": "17-parcel",
   "version": "1.0.0",
+  "default": "index.html",
+  "description": "",
   "browserslist": "last 2 versions, > 0.5% and ie >= 11",
   "scripts": {
     "start": "parcel index.html",
@@ -8,7 +10,6 @@
   },
   "author": "Alex",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "core-js": "^3.38.0",
     "leaflet": "^1.9.4",
