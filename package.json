@@ -1,0 +1,22 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "browserslist": "last 2 versions, > 0.5% and ie >= 11",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Alex",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "core-js": "^3.38.0",
+    "leaflet": "^1.9.4",
+    "live-server": "^1.2.0",
+    "lodash-es": "^4.17.21",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
